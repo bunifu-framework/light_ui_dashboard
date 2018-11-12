@@ -1,0 +1,48 @@
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.exe.config
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu_UI_v1.52.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csprojResolveAssemblyReference.cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.Form1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.Properties.Resources.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.GenerateResource.Cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.ctrl1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\BunifuDataViz 1.0.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\BunifuDataViz 1.0.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.ctrl2.resources
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.exe.config
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.exe
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.pdb
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu.Core.dll
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu.Core.pdb
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\BunifuDataViz 1.0.pdb
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu_UI_v1.5.3.pdb
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csprojResolveAssemblyReference.cache
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.ctrl1.resources
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.ctrl2.resources
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.Form1.resources
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.Properties.Resources.resources
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.GenerateResource.cache
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.CoreCompileInputs.cache
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.CopyComplete
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.exe
+F:\Bunifu\2018\Demos\Kim\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.pdb
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.exe.config
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.exe
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\awesome_light_ui_dashbard.pdb
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu.Core.dll
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\BunifuDataViz.dll
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.exe.config
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.ctrl1.resources
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.ctrl2.resources
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.Form1.resources
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.Properties.Resources.resources
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.GenerateResource.cache
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.CoreCompileInputs.cache
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.csproj.CopyComplete
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.exe
+F:\Bunifu\2018\Demos\awesome_light_ui_dashbard\awesome_light_ui_dashbard\obj\Debug\awesome_light_ui_dashbard.pdb
