@@ -6,7 +6,7 @@ Steps on getting started
 * Open with Visual Studio 
 * Update Bunifu Framework DLLs
 
-Controls used in this project
+Bunifu Framework Controls used in this project
 
 * BunifuFlatButton
 * BunifuThinButton
