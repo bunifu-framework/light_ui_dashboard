@@ -2,9 +2,18 @@
 This is a Bunifu-Theme UI using most of Bunifu Framework Tools.
 
 Steps on getting started
-> Clone * 
-> Open with Visual Studio * 
-> Update Bunifu Framework DLLs
+* Clone/Download Zip
+* Open with Visual Studio 
+* Update Bunifu Framework DLLs
+
+Controls used in this project
+
+* BunifuFlatButton
+* BunifuThinButton
+* BunifuImageButton
+* BunifuMaterialTextbox
+* BunifuCircleProgressBar
+* Bunifu DataViz
 
 Screenshot
 
